@@ -1,3 +1,3 @@
-FROM registry.centos.org/centos/centos
+FROM hello-world
 
-RUN touch /root/dharmit
+MAINTAINER Dharmit Shah
